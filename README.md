@@ -6,3 +6,4 @@ My to-do list:
 - Figure out how to host an R Markdown product
 - Google Analytics
 - Write some stuff
+- Learn more about styling in Jekyll
